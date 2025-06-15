@@ -1,7 +1,7 @@
 //This is my setup script jh699
-apt update -y
-apt upgrade -y 
-apt install -y \ 
+sudo apt update -y
+sudo apt upgrade -y 
+suco apt install -y \ 
   net-tools \
   unzip \ 
   ssh \ 
